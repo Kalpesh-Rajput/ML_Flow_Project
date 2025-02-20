@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/935121334037691175/cd4d25bf62464b41b5f2ded7703bbf21/artifacts
+deleted_time: 1739922266382
+end_time: 1739921857181
+entry_point_name: ''
+experiment_id: '935121334037691175'
+lifecycle_stage: deleted
+run_id: cd4d25bf62464b41b5f2ded7703bbf21
+run_name: painted-zebra-627
+run_uuid: cd4d25bf62464b41b5f2ded7703bbf21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739921851193
+status: 3
+tags: []
+user_id: HP

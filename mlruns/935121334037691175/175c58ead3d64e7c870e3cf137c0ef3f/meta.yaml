@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/935121334037691175/175c58ead3d64e7c870e3cf137c0ef3f/artifacts
+deleted_time: 1739922913654
+end_time: 1739922795363
+entry_point_name: ''
+experiment_id: '935121334037691175'
+lifecycle_stage: deleted
+run_id: 175c58ead3d64e7c870e3cf137c0ef3f
+run_name: caring-duck-229
+run_uuid: 175c58ead3d64e7c870e3cf137c0ef3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739922789624
+status: 3
+tags: []
+user_id: HP

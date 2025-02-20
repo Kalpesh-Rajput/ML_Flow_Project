@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/935121334037691175/348c1dc8e2454b098d0883e350f10871/artifacts
+deleted_time: 1739922266383
+end_time: 1739920943162
+entry_point_name: ''
+experiment_id: '935121334037691175'
+lifecycle_stage: deleted
+run_id: 348c1dc8e2454b098d0883e350f10871
+run_name: dapper-squid-546
+run_uuid: 348c1dc8e2454b098d0883e350f10871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739920927243
+status: 3
+tags: []
+user_id: HP

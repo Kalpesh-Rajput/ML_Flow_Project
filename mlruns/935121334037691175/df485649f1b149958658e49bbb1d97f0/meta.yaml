@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/935121334037691175/df485649f1b149958658e49bbb1d97f0/artifacts
+deleted_time: 1739922583729
+end_time: 1739922553433
+entry_point_name: ''
+experiment_id: '935121334037691175'
+lifecycle_stage: deleted
+run_id: df485649f1b149958658e49bbb1d97f0
+run_name: sedate-auk-978
+run_uuid: df485649f1b149958658e49bbb1d97f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739922547493
+status: 3
+tags: []
+user_id: HP

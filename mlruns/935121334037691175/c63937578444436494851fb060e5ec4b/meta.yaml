@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/935121334037691175/c63937578444436494851fb060e5ec4b/artifacts
+deleted_time: 1739922266376
+end_time: null
+entry_point_name: ''
+experiment_id: '935121334037691175'
+lifecycle_stage: deleted
+run_id: c63937578444436494851fb060e5ec4b
+run_name: nervous-penguin-456
+run_uuid: c63937578444436494851fb060e5ec4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739922174802
+status: 1
+tags: []
+user_id: HP

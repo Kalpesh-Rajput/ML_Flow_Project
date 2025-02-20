@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/935121334037691175/c5ea865a2bcb482ab7c36d923d5ce716/artifacts
+deleted_time: 1739921123982
+end_time: 1739920819358
+entry_point_name: ''
+experiment_id: '935121334037691175'
+lifecycle_stage: deleted
+run_id: c5ea865a2bcb482ab7c36d923d5ce716
+run_name: indecisive-kite-315
+run_uuid: c5ea865a2bcb482ab7c36d923d5ce716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739920819201
+status: 4
+tags: []
+user_id: HP

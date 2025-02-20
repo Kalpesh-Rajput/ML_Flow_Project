@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/935121334037691175/00b0dbcfb0f84f7c8c55bf9e5c3353bd/artifacts
+deleted_time: 1739922641678
+end_time: 1739922568036
+entry_point_name: ''
+experiment_id: '935121334037691175'
+lifecycle_stage: deleted
+run_id: 00b0dbcfb0f84f7c8c55bf9e5c3353bd
+run_name: glamorous-loon-233
+run_uuid: 00b0dbcfb0f84f7c8c55bf9e5c3353bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739922562281
+status: 3
+tags: []
+user_id: HP

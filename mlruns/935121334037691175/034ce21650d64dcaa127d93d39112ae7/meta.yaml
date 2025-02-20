@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/935121334037691175/034ce21650d64dcaa127d93d39112ae7/artifacts
+deleted_time: 1739922266372
+end_time: 1739922102579
+entry_point_name: ''
+experiment_id: '935121334037691175'
+lifecycle_stage: deleted
+run_id: 034ce21650d64dcaa127d93d39112ae7
+run_name: burly-gnu-388
+run_uuid: 034ce21650d64dcaa127d93d39112ae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739922102083
+status: 4
+tags: []
+user_id: HP
